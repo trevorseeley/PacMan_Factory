@@ -1,6 +1,6 @@
 # PacMan Factory
 
-Create PacMan by clicking the button! 
+Create PacMan by clicking the button! This exercise focused around the implementation of JavaScript factories and interactions screen restraints. 
 
 Check out the Eye Tracking Exercise: <a href="https://trevorseeley.github.io/Eye_Tracking"> Click Here </a>
 
